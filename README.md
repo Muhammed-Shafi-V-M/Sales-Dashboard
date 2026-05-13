@@ -30,7 +30,7 @@ Using Power BI visualizations and interactive filters, users can explore the dat
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard.png" width="90%" alt="Sales Dashboard Preview"/>
+  <img src="Screenshot 2026-05-13 111002.png" width="90%" alt="Sales Dashboard Preview"/>
 </p>
 
 👉 *(Replace `dashboard.png` with your actual dashboard screenshot file name)*
