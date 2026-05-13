@@ -85,6 +85,3 @@ This project helped me improve my skills in data visualization, dashboard design
 
 ---
 
-<p align="center">
-  ⭐ If you like this project, consider giving it a star!
-</p>
